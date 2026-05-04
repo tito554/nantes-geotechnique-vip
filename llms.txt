@@ -1,0 +1,52 @@
+# Geotechnique — Nantes
+
+> Geotechnical engineering services in Nantes, France.
+
+## Services
+- [Amelioration Sols](https://nantes.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://nantes.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://nantes.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://nantes.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://nantes.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://nantes.geotechnique.vip/colonnes-ballastees/)
+- [Confidentialite](https://nantes.geotechnique.vip/confidentialite/)
+- [Densite Cone Sable](https://nantes.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://nantes.geotechnique.vip/essai-cpt/)
+- [Essais Proctor](https://nantes.geotechnique.vip/essais-proctor/)
+- [Excavations](https://nantes.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://nantes.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://nantes.geotechnique.vip/fondations/)
+- [Geotechnique Routiere](https://nantes.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://nantes.geotechnique.vip/granulometrie/)
+- [Injections](https://nantes.geotechnique.vip/injections/)
+- [Investigation](https://nantes.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://nantes.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://nantes.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://nantes.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://nantes.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://nantes.geotechnique.vip/liquefaction/)
+- [Masw](https://nantes.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://nantes.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://nantes.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://nantes.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://nantes.geotechnique.vip/pieux/)
+- [Puits Inspection](https://nantes.geotechnique.vip/puits-inspection/)
+- [Radiers](https://nantes.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://nantes.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://nantes.geotechnique.vip/resistivite/)
+- [Semelles](https://nantes.geotechnique.vip/semelles/)
+- [Sismique](https://nantes.geotechnique.vip/sismique/)
+- [Sondages Spt](https://nantes.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://nantes.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://nantes.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://nantes.geotechnique.vip/talus/)
+- [Triaxial](https://nantes.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://nantes.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://nantes.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://nantes.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Nantes, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
