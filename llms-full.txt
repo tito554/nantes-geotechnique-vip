@@ -16,6 +16,7 @@
 - [Excavations](https://nantes.geotechnique.vip/excavations/)
 - [Excavations Profondes](https://nantes.geotechnique.vip/excavations-profondes/)
 - [Fondations](https://nantes.geotechnique.vip/fondations/)
+- [Geophysique](https://nantes.geotechnique.vip/geophysique/)
 - [Geotechnique Routiere](https://nantes.geotechnique.vip/geotechnique-routiere/)
 - [Granulometrie](https://nantes.geotechnique.vip/granulometrie/)
 - [Injections](https://nantes.geotechnique.vip/injections/)

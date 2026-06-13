@@ -3,7 +3,7 @@
   "short_name": "Geotechnique",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#0F766E",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "fr",
-  "orientation": "portrait",
-  "scope": "/",
-  "description": "Services géotechniques professionnels à Nantes, France. Études de sol, essais et conseil technique.",
-  "id": "/nantes-3496"
+  ]
 }
